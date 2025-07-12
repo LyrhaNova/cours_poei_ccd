@@ -7,12 +7,25 @@ La structure est scindé en chapitre, chaque chapitre contient les informations 
 Ce dépôt est à usage pédagogique et personnel. Certains contenus peuvent être résumés ou reformulés pour respecter la confidentialité des supports officiels de formation.
 
 ## 🌺 Objectifs de la formation 🌺
-Acquérir les fondamentaux du métier de conseiller commercial en assurance
+- Acquérir les fondamentaux du métier de conseiller commercial en assurance
+- Maîtriser les produits et services proposés par la MAAF
+- Développer des compétences en vente, conseil client et relation commerciale
+- Comprendre le cadre légal et réglementaire du secteur assurantiel
+- Se préparer à une prise de poste en autonomie
 
-Maîtriser les produits et services proposés par la MAAF
 
-Développer des compétences en vente, conseil client et relation commerciale
+## 🌺 Structure du Repository 🌺
+```
+Cours_poei_ccd/
+├── 01-Fondamentaux/
+│ ├── CH01-Culture-MAAF-et-le-metier/
+│ ├── ...
+├── 02-Techniques-commerciales/
+│ ├── CH07-Vente-argumentation-et-traitement-des-objections/
+│ ├── ...
+├── 03-Professionnalisation/
+│ ├── CH16-Excellence-telephonique-assurance/
+│ ├── ...
+```
 
-Comprendre le cadre légal et réglementaire du secteur assurantiel
-
-Se préparer à une prise de poste en autonomie
+Note : Chaque dossier contient des assets et un README servant de résumé pour l'entièreté de la section choisie.

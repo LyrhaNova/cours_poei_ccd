@@ -1,0 +1,1 @@
+# 🌺 Résumé - Fondamentaux & Culture Métier🌺
