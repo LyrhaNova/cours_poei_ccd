@@ -17,6 +17,7 @@ Chaque terme est accompagné d'une définition simple, suivie d'un exemple concr
 ---
 
 ### 🔹 **Sinistre**
+**Définition :** C’est l’évènement malheureux couvert (ou non) par le contrat d’assurance, qui donne lieu à une demande d’indemnisation.
 >Exemple : Événement malheureux couvert (ou non) par le contrat d’assurance, donnant lieu à une demande d’indemnisation. 
 
 >Exemple : Après un dégât des eaux dans sa cuisine, M. Bendi a déclaré un **sinistre** auprès de la MAAF.

@@ -4,13 +4,13 @@ Chaque terme est accompagné d'une définition simple, suivie d'un exemple concr
 
 ---
 
-### 🔹 **Prime / Cotisation**
+### 🔹 **Nom**
 **Définition :** Ici  
 >Exemple : Là
 
 ---
 
-### 🔹 **Franchise**
+### 🔹 **Nom**
 **Définition :** Ici
 >Exemple : Là.
 
