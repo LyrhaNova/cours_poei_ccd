@@ -1,4 +1,4 @@
-# 📚 Vocabulaire & Définitions
+# 📚 Vocabulaire & Définitions : Assurance
 
 Chaque terme est accompagné d'une définition simple, suivie d'un exemple concret.
 

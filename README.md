@@ -20,12 +20,21 @@ Cours_poei_ccd/
 ├── 01-Fondamentaux/
 │ ├── CH01-Culture-MAAF-et-le-metier/
 │ ├── ...
+│ ├── assets\
+│ ├── README.md
 ├── 02-Techniques-commerciales/
 │ ├── CH07-Vente-argumentation-et-traitement-des-objections/
 │ ├── ...
+│ ├── assets\
+│ ├── README.md
 ├── 03-Professionnalisation/
 │ ├── CH16-Excellence-telephonique-assurance/
 │ ├── ...
+│ ├── assets\
+│ ├── README.md
+├── Vocabulaire-Definitions/
+│ ├── Vocabulaire-Assurance.md
+│ ├── Vocabulaire-Commercial.md
 ```
 
-Note : Chaque dossier contient des assets et un README servant de résumé pour l'entièreté de la section choisie.
+>Note : Chaque dossier contient des assets (images ou vidéos) et un README servant de résumé pour l'entièreté de la section choisie.
