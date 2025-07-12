@@ -6,12 +6,14 @@ Chaque terme est accompagné d'une définition simple, suivie d'un exemple concr
 
 ### 🔹 **Nom**
 **Définition :** Ici  
+🔸**Remarque :** Ici
 >Exemple : Là
 
 ---
 
 ### 🔹 **Nom**
-**Définition :** Ici
+**Définition :** Ici  
+🔸**Remarque :** Ici
 >Exemple : Là.
 
 ---

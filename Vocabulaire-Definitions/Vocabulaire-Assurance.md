@@ -75,5 +75,5 @@ Chaque terme est accompagné d'une définition simple, suivie d'un exemple concr
 
 ### 🔹 **Indemnisation**
 **Définition :** Somme versée à l’assuré (ou à un tiers) pour compenser un **préjudice** ou un **dommage**.  
-**Remarque :** Elle vise à remettre l’assuré dans sa situation financière d’avant sinistre — sans gain.  
+🔸**Remarque :** Elle vise à remettre l’assuré dans sa situation financière d’avant sinistre — sans gain.  
 >Exemple : Après un incendie, l’**indemnisation** permet à M. Garnier de racheter ses meubles sans s’enrichir.
